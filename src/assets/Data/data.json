@@ -1,0 +1,380 @@
+{
+    "results": [
+      {
+        "gender": "female",
+        "name": {
+          "title": "miss",
+          "first": "chloé",
+          "last": "laurent"
+        },
+        "location": {
+          "street": "9849 rue bataille",
+          "city": "rueil-malmaison",
+          "state": "guadeloupe",
+          "postcode": 87358
+        },
+        "email": "chloé.laurent@example.com",
+        "login": {
+          "username": "whitefish339",
+          "password": "womble",
+          "salt": "ozhNYmjS",
+          "md5": "9fe82c7b3d3a3eafbdd07445029ad77d",
+          "sha1": "a39bc294b4babf1f48149c440113f80431b09142",
+          "sha256": "647b205fe6c29a1c1e44893936dbe3a124ccf0f8d01c02851cc77b53acf7baaa"
+        },
+        "dob": "1960-08-28 23:23:25",
+        "registered": "2010-05-21 04:11:36",
+        "phone": "03-55-17-43-70",
+        "cell": "06-67-30-30-15",
+        "id": {
+          "name": "INSEE",
+          "value": "260714907186 64"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/87.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
+        },
+        "nat": "FR"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "miss",
+          "first": "felecia",
+          "last": "ramos"
+        },
+        "location": {
+          "street": "7351 w belt line rd",
+          "city": "wagga wagga",
+          "state": "australian capital territory",
+          "postcode": 2096
+        },
+        "email": "felecia.ramos@example.com",
+        "login": {
+          "username": "blackswan180",
+          "password": "knight1",
+          "salt": "sXZPXflG",
+          "md5": "b28fe6e412dd29c906a2844c4c35e8e6",
+          "sha1": "94563ee3ea1ce6bd0b677c3f417073de14989b07",
+          "sha256": "e70edc0b023e96b29212c6f7b60d396942c840ff7ceee9d7cf674343881e9b59"
+        },
+        "dob": "1980-01-13 01:32:00",
+        "registered": "2011-07-02 19:38:57",
+        "phone": "05-1015-4206",
+        "cell": "0489-223-767",
+        "id": {
+          "name": "TFN",
+          "value": "562987984"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/82.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+        },
+        "nat": "AU"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "mr",
+          "first": "gustavo",
+          "last": "gonzalez"
+        },
+        "location": {
+          "street": "8542 calle de téllez",
+          "city": "las palmas de gran canaria",
+          "state": "navarra",
+          "postcode": 95485
+        },
+        "email": "gustavo.gonzalez@example.com",
+        "login": {
+          "username": "biggorilla198",
+          "password": "express",
+          "salt": "YHDlNhvr",
+          "md5": "6cfc3d57230f3e6ab572ce188ed73c90",
+          "sha1": "344f4ec41dfe03e0e0fdee59105cea827d1743fc",
+          "sha256": "e7e6624b77aafc05d265baff6023fbc29d15cc817867a3d441c80da10b19fba4"
+        },
+        "dob": "1962-02-22 02:38:32",
+        "registered": "2008-11-16 12:32:55",
+        "phone": "904-716-847",
+        "cell": "620-385-699",
+        "id": {
+          "name": "DNI",
+          "value": "13194658-U"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/22.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+        },
+        "nat": "ES"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "ms",
+          "first": "ajuricaba",
+          "last": "teixeira"
+        },
+        "location": {
+          "street": "4360 rua das flores ",
+          "city": "magé",
+          "state": "rio grande do sul",
+          "postcode": 92713
+        },
+        "email": "ajuricaba.teixeira@example.com",
+        "login": {
+          "username": "purpleladybug149",
+          "password": "boozer",
+          "salt": "2ej05hyg",
+          "md5": "5121d215922d2fc134f1fd809645046d",
+          "sha1": "f5baf1c5d7ff695ea0965fa486f6790ad31b82fa",
+          "sha256": "d9a6f0d944c9589e0d93d6d17ae44cebbe8713337ef1a025dc688d84aae86c53"
+        },
+        "dob": "1990-08-03 15:42:35",
+        "registered": "2007-07-25 04:41:04",
+        "phone": "(61) 0859-6593",
+        "cell": "(45) 9451-8361",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/7.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/7.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "miss",
+          "first": "estelle",
+          "last": "olivier"
+        },
+        "location": {
+          "street": "5573 rue abel-gance",
+          "city": "lyon",
+          "state": "var",
+          "postcode": 56747
+        },
+        "email": "estelle.olivier@example.com",
+        "login": {
+          "username": "greenleopard472",
+          "password": "joyce",
+          "salt": "iVxOlo8Z",
+          "md5": "1224917ac30dc71c2cd32f8c23876fc9",
+          "sha1": "c85043009390a82624f8e9c08ede4ad2da7184c5",
+          "sha256": "ba99cfcc5faabde2222da9f1f5026375752fdd4d74860659982c028ffa7b882c"
+        },
+        "dob": "1984-07-23 15:42:46",
+        "registered": "2006-06-22 12:20:10",
+        "phone": "02-35-55-71-67",
+        "cell": "06-85-02-33-97",
+        "id": {
+          "name": "INSEE",
+          "value": "284659742095 60"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/16.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+        },
+        "nat": "FR"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "miss",
+          "first": "isla",
+          "last": "korpi"
+        },
+        "location": {
+          "street": "5621 satakennankatu",
+          "city": "juuka",
+          "state": "kainuu",
+          "postcode": 52184
+        },
+        "email": "isla.korpi@example.com",
+        "login": {
+          "username": "redpanda868",
+          "password": "ssssssss",
+          "salt": "zx7uUC0v",
+          "md5": "933ab1e3a8fe136de7f32ca1e729c967",
+          "sha1": "1eb13a808810887da1e5449b4c1f13cfc2696c3a",
+          "sha256": "92cdd7aa6ad1b1e4fdc8f137befdee885c74644e839637e0258667c0c72a1065"
+        },
+        "dob": "1969-03-13 03:30:34",
+        "registered": "2005-03-27 02:20:02",
+        "phone": "07-100-014",
+        "cell": "047-738-61-72",
+        "id": {
+          "name": "HETU",
+          "value": "669-3221"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/41.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+        },
+        "nat": "FI"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "mr",
+          "first": "mahad",
+          "last": "wilms"
+        },
+        "location": {
+          "street": "5136 moreelsepark",
+          "city": "zwolle",
+          "state": "friesland",
+          "postcode": 53180
+        },
+        "email": "mahad.wilms@example.com",
+        "login": {
+          "username": "tinypanda760",
+          "password": "novifarm",
+          "salt": "NVwchJF8",
+          "md5": "2a85b227f2b9c39a8b28d13ab4699073",
+          "sha1": "33b700ce00b8789f5df3f817167e89a2e1697c4c",
+          "sha256": "4c3337d12e6e9b7aef3a1f1614824115b80f09e7cc4ccb7db0d6789c705bdb8b"
+        },
+        "dob": "1973-03-20 22:06:58",
+        "registered": "2004-11-30 23:35:14",
+        "phone": "(132)-100-8645",
+        "cell": "(225)-874-8517",
+        "id": {
+          "name": "BSN",
+          "value": "30824710"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/56.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+        },
+        "nat": "NL"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "mrs",
+          "first": "minea",
+          "last": "halonen"
+        },
+        "location": {
+          "street": "4195 suvantokatu",
+          "city": "isokyrö",
+          "state": "päijät-häme",
+          "postcode": 80405
+        },
+        "email": "minea.halonen@example.com",
+        "login": {
+          "username": "redleopard297",
+          "password": "chandler",
+          "salt": "AKGLtu2r",
+          "md5": "24f616715cb66b50869c5e2ffade1c72",
+          "sha1": "8f1c680f91c395d392eb072670a4f5160b897c5c",
+          "sha256": "3de2598d0df98387b80a6cf7c77bdbe1ef6bc3144b40287687c894a2d9f5a284"
+        },
+        "dob": "1950-03-10 01:29:25",
+        "registered": "2003-01-02 07:00:55",
+        "phone": "08-991-411",
+        "cell": "043-926-15-43",
+        "id": {
+          "name": "HETU",
+          "value": "750-436L"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/60.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
+        },
+        "nat": "FI"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "mr",
+          "first": "bradley",
+          "last": "pierce"
+        },
+        "location": {
+          "street": "2621 w pecan st",
+          "city": "nowra",
+          "state": "tasmania",
+          "postcode": 7465
+        },
+        "email": "bradley.pierce@example.com",
+        "login": {
+          "username": "whitemouse272",
+          "password": "111111",
+          "salt": "XFlDhAz6",
+          "md5": "748540715b2d6a86e1e7f0e4af79e34c",
+          "sha1": "38bc2328afdf47624d959494ec2c6f10ed0f3078",
+          "sha256": "1f85c3cad8bc53b73e59ee83aab79bd4592eef4110c2130ee2f69353bbfa0914"
+        },
+        "dob": "1952-06-14 13:52:13",
+        "registered": "2006-02-19 07:01:55",
+        "phone": "01-2549-2228",
+        "cell": "0496-427-629",
+        "id": {
+          "name": "TFN",
+          "value": "731094015"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/72.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+        },
+        "nat": "AU"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "mrs",
+          "first": "آوا",
+          "last": "کریمی"
+        },
+        "location": {
+          "street": "5702 امام خمینی",
+          "city": "اردبیل",
+          "state": "مرکزی",
+          "postcode": 81360
+        },
+        "email": "آوا.کریمی@example.com",
+        "login": {
+          "username": "tinywolf142",
+          "password": "amazon",
+          "salt": "et3woNJb",
+          "md5": "1595cb0032b1e58013b938ba57a38f3e",
+          "sha1": "2a65ac05213ae75f4ee8abe8db505832475368da",
+          "sha256": "05d9bb3eccc4dcf49f2a12d31344810785e386b710ebef86e5bb5786b6328896"
+        },
+        "dob": "1972-11-01 02:42:56",
+        "registered": "2006-01-03 04:43:08",
+        "phone": "091-46378764",
+        "cell": "0953-965-4672",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/7.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/7.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
+        },
+        "nat": "IR"
+      }
+    ],
+    "info": {
+      "seed": "f30790a6d52d04e2",
+      "results": 10,
+      "page": 1,
+      "version": "1.1"
+    }
+  }
