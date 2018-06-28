@@ -1,17 +1,34 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>Home</ion-title>
+    <ion-title> Culture Events </ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
-  <h2>Welcome to Ionic!</h2>
-  <p>
-    This starter project comes with simple tabs-based layout for apps
-    that are going to primarily use a Tabbed UI.
-  </p>
-  <p>
-    Take a look at the <code>src/pages/</code> directory to add or change tabs,
-    update any existing page or create new pages.
-  </p>
+
+
+    <!-- <ion-fab bottom right #fab>
+        <button ion-fab>Share</button>
+        <ion-fab-list side="top">
+          <button ion-fab (click)="share('facebook', fab)">Facebook</button>
+          <button ion-fab (click)="share('twitter', fab)">Twitter</button>
+        </ion-fab-list>
+      </ion-fab>
+<ion-list> -->
+  
+      <ion-card  *ngFor="let item of Events">
+        <ion-card-title>
+          {{ item.Category}}
+        </ion-card-title>
+        <ion-card-content>
+          <img [src]="item.Image" alt="">
+          <ion-item text-wrap> {{item.Detail }}</ion-item> 
+        </ion-card-content>
+      </ion-card>
+
+
+
 </ion-content>
+
+
+
